@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/atem-der-liebe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Atem der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/atem-der-liebe/) |
+| **Get License** | [Commercial Licensing for Atem der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/atem-der-liebe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6e23abd75758859aa18cdb77a18b3e5e5253f8e787081cd1f0e3a3b79005c252` |
 | **Timestamp** | June 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
