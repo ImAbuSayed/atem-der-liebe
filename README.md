@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/atem-der-liebe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Atem der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/atem-der-liebe/) |
+| **Get License** | [Official Music Licensing for Atem der Liebe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/atem-der-liebe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ich seh' dein Face im Neonlicht der Stadt
+> Der Bass schlägt tief, doch nur du hältst mich wach
+> Wir fahr'n zu zweit durch die late night, Baby
+> Kein Limit heute Nacht, du machst mich crazy
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
